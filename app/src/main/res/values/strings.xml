@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mo Dokan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <string name="offers">Offers</string>
+    <string name="new_products">New Products</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_carts">My Carts</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="detailed_description"><![CDATA[The Unlimited Talk & Text plan provides unlimited minutes and messages with all plan taxes and fees included if you do not want or need data on your phone.]]></string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486681729937",
+    "project_id": "mo-dokan-8b860",
+    "storage_bucket": "mo-dokan-8b860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486681729937:android:f9dfde75c6b05d74411830",
+        "android_client_info": {
+          "package_name": "com.kanhakumar.modokan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486681729937-gqsgc5cj5celp3lapv15r70iaadermpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdkX661LUec7wlgsJyvE_HhMa1Lm7Kl-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486681729937-gqsgc5cj5celp3lapv15r70iaadermpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
